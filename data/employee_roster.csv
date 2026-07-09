@@ -1,0 +1,13 @@
+employee_id,full_name,email,department,manager,default_cost_center,corporate_card_last4,home_currency,slack_handle
+emp_001,Jane Miller,jane.miller@asterridge.example,Sales,Mark Liu,Sales-NE,1148,USD,@jane.miller
+emp_002,Rahul Shah,rahul.shah@asterridge.example,Engineering,Ana Torres,Eng-Platform,8821,USD,@rahul.shah
+emp_003,Ana Torres,ana.torres@asterridge.example,Product,Mark Liu,Product-Core,5402,USD,@ana.torres
+emp_004,Mark Liu,mark.liu@asterridge.example,Executive,,Exec,9017,USD,@mark.liu
+emp_005,Priya Nair,priya.nair@asterridge.example,Finance,Mark Liu,Finance,3320,USD,@priya.nair
+emp_006,Carlos Rivera,carlos.rivera@asterridge.example,Operations,Priya Nair,Ops-NY,7784,USD,@carlos.rivera
+emp_007,Emily Chen,emily.chen@asterridge.example,Marketing,Ana Torres,Marketing,2468,USD,@emily.chen
+emp_008,Daniel Brooks,daniel.brooks@asterridge.example,Business Development,Mark Liu,BD,6195,USD,@daniel.brooks
+emp_009,Sofia Rossi,sofia.rossi@asterridge.example,Customer Success,Ana Torres,CS,0574,USD,@sofia.rossi
+emp_010,Omar Haddad,omar.haddad@asterridge.example,Data,Rahul Shah,Data,4291,USD,@omar.haddad
+emp_011,Janet Miller,janet.miller@asterridge.example,Legal,Priya Nair,Legal,7055,USD,@janet.miller
+emp_012,Maya Patel,maya.patel@asterridge.example,People,Mark Liu,People,8370,USD,@maya.patel
