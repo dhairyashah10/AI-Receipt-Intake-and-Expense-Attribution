@@ -1,6 +1,6 @@
 # AI Receipt Intake and Expense Attribution
 
-Take-home prototype for Black Osprey: ingests a folder of receipts (PDF/JPG/PNG,
+Ingests a folder of receipts (PDF/JPG/PNG,
 some with a text layer, some scanned/photographed), extracts structured expense
 fields, attributes each expense to the most likely employee, scores confidence
 for both steps with an explanation, flags uncertain/invalid/duplicate records
