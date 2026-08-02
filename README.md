@@ -74,7 +74,7 @@ This keeps the common case cheap while still handling real-world photos.
 270-degree) photo is a categorically different problem from a few-degrees
 tilt. Tesseract's orientation-and-script-detection (OSD) runs as an explicit
 first pass (gated on OSD's own confidence score, since a low-confidence OSD
-guess can be wrong and flip a genuinely-upright image); small-angle tilt is
+guess can be wrong and flip a genuinely upright image); small-angle tilt is
 then corrected separately via an OpenCV minAreaRect-based deskew. Both are
 best-effort and fail open (leave the image untouched) rather than raising.
 
@@ -254,7 +254,7 @@ Each record includes: `filename`, `is_valid_receipt`, `merchant_name`,
 `expenses_needs_review.json` contains the exact same record shape, just
 filtered down to `needs_review: true` records.
 
-## Tools / libraries used
+## Tools/libraries used
 
 - Python 3.10
 - pdfplumber -- text-layer PDF extraction
